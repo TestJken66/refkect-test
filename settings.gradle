@@ -1,0 +1,3 @@
+include ':RefLib'
+include ':app'
+rootProject.name = "Ref"
